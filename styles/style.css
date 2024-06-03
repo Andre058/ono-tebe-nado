@@ -329,8 +329,8 @@ text-align: center;
 }
 
 .footer__social-list {
-  display: flex;
   gap: 48px;
+  display: flex;
   list-style: none;
   margin-bottom: auto;
 
