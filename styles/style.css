@@ -332,8 +332,7 @@ text-align: center;
   gap: 48px;
   display: flex;
   list-style: none;
-  margin-bottom: auto;
-
+  margin-bottom: auto;;
 }
 
 .footer__social-list-item {
