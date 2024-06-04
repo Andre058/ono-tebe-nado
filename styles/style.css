@@ -7,11 +7,10 @@
 }
 
 .header__links-list {
-  max-width: 391px;
-  max-height: 20px;
-  display: flex;
+  max-width: 390px;
+  padding-top: 7px;
   gap: 32px;
-
+  display: flex;
 }
 
 .header__links-list-item {
@@ -49,11 +48,10 @@
 }
 
 .header__address {
-  justify-self: end;
   font-style: inherit;
+  justify-self: end;
   max-width: 240px;
-  max-height: 93px;
-  line-height: 26px;
+  padding-top: 5px;
   width: 100%;
 }
 
@@ -66,17 +64,14 @@
 .address__address-text {
   font-size: 18px;
   line-height: 24.3px;
-  max-width: none;
-  top: 54px;
-  left: 787px;
 }
 
 .aligned-text-left {
-line-height: 115px;
+  line-height: 115px;
 }
 
 .aligned-text_center {
-text-align: center;
+  text-align: center;
 }
 
 .aligned-text_right {
@@ -174,7 +169,6 @@ text-align: center;
 }
 
 .card {
-  height: 563px;
   width: 334px;
 }
 
